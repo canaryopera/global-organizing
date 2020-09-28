@@ -1,4 +1,4 @@
-# PyLadies Global Organizing
+# Canary Opera Global Organizing
 
 Repository to track global organizing as well as to suggest new project teams.
 
